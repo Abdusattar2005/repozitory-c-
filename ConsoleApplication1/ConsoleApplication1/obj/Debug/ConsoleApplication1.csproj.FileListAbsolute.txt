@@ -1,0 +1,6 @@
+/home/abdusattar/Desktop/repazitory c#/ConsoleApplication1/ConsoleApplication1/bin/Debug/ConsoleApplication1.exe
+/home/abdusattar/Desktop/repazitory c#/ConsoleApplication1/ConsoleApplication1/bin/Debug/ConsoleApplication1.pdb
+/home/abdusattar/Desktop/repazitory c#/ConsoleApplication1/ConsoleApplication1/obj/Debug/ConsoleApplication1.csproj.AssemblyReference.cache
+/home/abdusattar/Desktop/repazitory c#/ConsoleApplication1/ConsoleApplication1/obj/Debug/ConsoleApplication1.csproj.CoreCompileInputs.cache
+/home/abdusattar/Desktop/repazitory c#/ConsoleApplication1/ConsoleApplication1/obj/Debug/ConsoleApplication1.exe
+/home/abdusattar/Desktop/repazitory c#/ConsoleApplication1/ConsoleApplication1/obj/Debug/ConsoleApplication1.pdb
